@@ -213,7 +213,7 @@
 	<File name="SimpleGraphic/Fonts/Bitstream Vera Sans Mono.24.tga" part="runtime" sha1="730fbfe488f47c0da6711f0e20c23e0c005148b0" />
 	<File name="SimpleGraphic/Fonts/Bitstream Vera Sans Mono.28.tga" part="runtime" sha1="b6d5cc14c7336366b2b6036f781ca1c2ae00b638" />
 	<File name="SimpleGraphic/Fonts/Bitstream Vera Sans Mono.32.tga" part="runtime" sha1="8c339846aac3a4c739750efe722816d86c56571a" />
-	<File name="SimpleGraphic/Fonts/Bitstream Vera Sans Mono.tgf" part="runtime" sha1="3a92b9f013871dc92211c7bba78a1c9669b443d4" />
+	<File name="SimpleGraphic/Fonts/Bitstream Vera Sans Mono.tgf" part="runtime" sha1="1ee3ac1cb6584187b04e79b340565ed6aa462ac1" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.10.tga" part="runtime" sha1="88809ae34ea7d14500e1ad9bb17e74f6bd50f72e" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.12.tga" part="runtime" sha1="a42436255ca10b47934ad428c60d209da2c77f41" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.14.tga" part="runtime" sha1="d720f0c0c3c6d2bea38d52edb7ba73bff71eb501" />
@@ -223,7 +223,7 @@
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.24.tga" part="runtime" sha1="909ed51261062dcc236a5d8f098d0b27defa9c48" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.28.tga" part="runtime" sha1="9c492dab86435d5afc634485d7ed3a7989cd4c08" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.32.tga" part="runtime" sha1="e8927530dc94099ce5d5f92568d29b1e3dc1dc7f" />
-	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.tgf" part="runtime" sha1="704c68c7f87906e7b2159a0f0e0cb7160861178e" />
+	<File name="SimpleGraphic/Fonts/Liberation Sans Bold.tgf" part="runtime" sha1="dce6655f80942e2c6f539c76d7e4a1ed0f71d2e1" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans.10.tga" part="runtime" sha1="24b476e990fe5804df7264f225b6db63ad956907" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans.12.tga" part="runtime" sha1="ec96b2a3d13ea40ac5a9cdcb1a1bf9702461a2df" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans.14.tga" part="runtime" sha1="8e698d7b5701d0fff9594394eb789526ba65547e" />
@@ -233,7 +233,7 @@
 	<File name="SimpleGraphic/Fonts/Liberation Sans.24.tga" part="runtime" sha1="6a5e5a131dd6ec31304d3889c1dacb326ccf0a03" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans.28.tga" part="runtime" sha1="3175f25ff2ba00f95f10078bea790ff591943c46" />
 	<File name="SimpleGraphic/Fonts/Liberation Sans.32.tga" part="runtime" sha1="526edb97597a06ed0d9689107a4e130a22faf810" />
-	<File name="SimpleGraphic/Fonts/Liberation Sans.tgf" part="runtime" sha1="31fdef9c0e2ad46df47123e7d81f5e8d4fe399ed" />
+	<File name="SimpleGraphic/Fonts/Liberation Sans.tgf" part="runtime" sha1="77d223d49c49dc26c6d62866d5396e11a6b6ed1a" />
 	<File name="TreeData/AmberOil.png" part="tree" sha1="2fd670aeee1c39ae99eef78cc351f9f7fbc091bc" />
 	<File name="TreeData/AscendancyButton.png" part="tree" sha1="60d0e1334840a6f143b4c3cbe7f0675709701691" />
 	<File name="TreeData/AscendancyButtonHighlight.png" part="tree" sha1="fcb6cd198a3b85c3b08623591bc0ba6d0ba4b991" />
@@ -420,19 +420,19 @@
 	<File name="TreeData/3_9/groups-3.png" part="tree" sha1="ddf012e0184c29bc1aee994badd8ede83aaebb73" />
 	<File name="TreeData/3_9/skills-3.jpg" part="tree" sha1="119218595a02d38e11ac331d4920d23f8acc86de" />
 	<File name="TreeData/3_9/skills-disabled-3.jpg" part="tree" sha1="e73624e16e81cb5393d07685a766dc3afc8f9e39" />
-	<File name="TreeData/3_10/tree.lua" part="tree" sha1="8328acf9bfecc4a2991348adbf0f683908ecb9fa" />
+	<File name="TreeData/3_10/tree.lua" part="tree" sha1="7de206b392629306d828be5cc022490760e4d64c" />
 	<File name="TreeData/3_10/groups-3.png" part="tree" sha1="85a5d6410e38d62c567538caba62d1c20c306453" />
 	<File name="TreeData/3_10/skills-3.jpg" part="tree" sha1="5e178407366f55bd46739ecba312fcb3e0d515dc" />
 	<File name="TreeData/3_10/skills-disabled-3.jpg" part="tree" sha1="ef12b39c6dad5448e6f10c92a1b4e7cf38e00843" />
-	<File name="TreeData/3_11/tree.lua" part="tree" sha1="2c66328deede4395fef5d7b1b81b697cdc8e0813" />
+	<File name="TreeData/3_11/tree.lua" part="tree" sha1="5110195ad3e1900813ee3f0a910997b671bad535" />
 	<File name="TreeData/3_11/groups-3.png" part="tree" sha1="351b940efd39cf3210babd01f8843b930a3c6165" />
 	<File name="TreeData/3_11/skills-3.jpg" part="tree" sha1="e24100ec6bc1a20486424f95f878f0ff75753f97" />
 	<File name="TreeData/3_11/skills-disabled-3.jpg" part="tree" sha1="b7a63aecf727ccc8e826d1cefd8d6ee7029714e0" />
-	<File name="TreeData/3_12/tree.lua" part="tree" sha1="973784f215cdf0ea8889fcf019ca59c4213f4ba3" />
+	<File name="TreeData/3_12/tree.lua" part="tree" sha1="1d03ed8b4dbd8e03ce31ec28498c860a27e3f12e" />
 	<File name="TreeData/3_12/groups-3.png" part="tree" sha1="5d0781818aa0fc971e40c71606794167f399b010" />
 	<File name="TreeData/3_12/skills-3.jpg" part="tree" sha1="250196fea41d29ba3a70f6f906bf909615fadb71" />
 	<File name="TreeData/3_12/skills-disabled-3.jpg" part="tree" sha1="5b955112389654a805be7f76a09d23efeb40b7f3" />
-	<File name="TreeData/3_13/tree.lua" part="tree" sha1="f9ab50ea0d56c60516829b1952b1709be308b6d3" />
+	<File name="TreeData/3_13/tree.lua" part="tree" sha1="cbbe081c62c13326c4152a697dbc2f816c7f9f2c" />
 	<File name="TreeData/3_13/groups-3.png" part="tree" sha1="5bfa14f0073f8835c12cb3297f0855dfc68eb869" />
 	<File name="TreeData/3_13/skills-3.jpg" part="tree" sha1="4e066860145766ebe0c606833f4cf41fe4bf90e4" />
 	<File name="TreeData/3_13/skills-disabled-3.jpg" part="tree" sha1="435f782d319f5457d75ca98fb3f1e75fac64e2c5" />
