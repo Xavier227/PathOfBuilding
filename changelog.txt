@@ -1,3 +1,86 @@
+VERSION[2.10.0][2021/10/29]
+
+* Fix url encoding during save after profile import (Peechey)
+
+## [v2.12.3](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.12.3) (2021/10/28)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.12.2...v2.12.3)
+
+## [v2.12.2](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.12.2) (2021/10/28)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.12.1...v2.12.2)
+
+## [v2.12.1](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.12.1) (2021/10/28)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.12.0...v2.12.1)
+
+## [v2.12.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.12.0) (2021/10/27)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.11.1...v2.12.0)
+
+* Add support for "Enemies Ignited or Chilled by you have -5% to Elemental Resistances" (Peechey)
+* Allow new uniques to use exceptional gems (Lexy)
+
+* Fix flask duration when there are no more/less duration mods (Peechey)
+* Update Uniques that previously used dodge (LocalIdentity)
+* Fix overcap display of Spellblock not working (LocalIdentity)
+* Fix Awakened Cast on Crit not applying cooldown recovery (LocalIdentity)
+* Fix Divergent Fortify not working (LocalIdentity)
+* Fix Arcanist Brand not applying more damage with Hits (LocalIdentity)
+* Fix Explosive Arrow skill on Spectres (LocalIdentity)
+* Fix calculations for variable base armour values (Wires77)
+* Fix importing passive tree data from profile (Peechey)
+* Fix Flask More/Less Duration (Peechey)
+* Fix Arcane Cloak when 100% reduced Reservation Efficiency (Peechey)
+
+* Add support for Nightblade Dagger Mastery (mthjones)
+* Release 2.12 (github-actions[bot])
+* Fix Awakened Ele Focus not giving +1 to supported elemental gems (randomflyingtaco)
+* Update skills to use ModFlag.Hit instead of KeywordFlag.Hit (LocalIdentity)
+* Fix Rightous Fire to use 3.16 life multiplier (Lilylicious)
+* Fix rounding for attribute bonuses (etojuice)
+* Add better defaults and error handling for exporter edgecases (Wires77)
+* Issue 3585: Fix Mana Efficiency rounding (HPSource)
+* Fix scourged mods not importing properly (Wires77)
+* fix: Updated The Squire, The Oppressor, Uul-Netol's Vow with ranges and modifiers (Nostrademous)
+* Update Collateral Damage Jewel to Affect Galvanic Arrow (randomflyingtaco)
+* Fix Critical support gem mastery (Wires77)
+* Rebuild dependencies and paths for all nodes upon tree reset (etojuice)
+* Make Timeless Jewel passive nodes in dropdown selection menu appear in alphabetical order (etojuice)
+* Fix Nightblade Crit Multi not scaling with Elusive effect (mthjones)
+* feat: add PassiveJewelRadii.dat to our export (Nostrademous)
+* Create pull\_request\_template.md (Wires77)
+* Updates to Dodge (etojuice)
+
+## [v2.11.1](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.11.1) (2021/10/23)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.11.0...v2.11.1)
+
+* Fixes Storm/Arma Brand hit damage (Lilylicious)
+* Fix item base tags missing (Wires77)
+
+## [v2.11.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.11.0) (2021/10/23)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.10.0...v2.11.0)
+
+* Update gems with 3.16 changes (LocalIdentity)
+* Add the ability to click a label to check the associated checkbox (ajryan)
+* Add support for Fortification (Zpooks)
+
+* Add support for Mark of the Red Covenant ignite mod (LocalIdentity)
+
+* Release 2.11.0 (github-actions[bot])
+* Add Scourge mods and base type values (Wires77)
+* feat: 3.16 GGPK Dump (Nostrademous)
+* Fix replacement of notable passives conquered by Eternal Empire (etojuice)
+* Remove unused variables (etojuice)
+* Regenerate test builds (jppianta)
+* Remove attribute tag from "Reduced Attribute Requirements" mods (randomflyingtaco)
+* fix spacing between stats groups (MarcLandis)
+* Added support for "All Damage with Maces and Sceptres inflicts Chill" (Peechey)
+
+
+
 VERSION[2.12.3][2021/10/28]
 
 * Fix crash when importing/opening builds (LocalIdentity)
