@@ -54,4 +54,4 @@ jobs:
             - name: Push to beta branch
               run: |
                   git commit -am "Weekly beta-${{ steps.current-version.outputs.ver }} release" --allow-empty --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
-                  git push origin beta
+                  git push origin beta --force
